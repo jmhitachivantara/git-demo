@@ -2,20 +2,7 @@
 
 This is the first file in this repo.
 
-## Oh well
+## website contents
 
-I love the ni
-I love Angie
-I love dad
-I love grandma Rachael
-I love grandma Dorthy
-I love grandma Smith
-I love grandma Hilda
-I love grandpa Don
-I love grandpa Dick
-I love Coco
-I love Elias
-I love Bunny
-I love Ashes
-I love the animals
+1. index.html
 
