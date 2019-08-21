@@ -13,8 +13,9 @@ I love grandma Smith
 I love grandma Hilda
 I love grandpa Don
 I love grandpa Dick
-I love coco
+I love Coco
 I love Elias
+I love Bunny
+I love Ashes
 I love the animals
-
 
